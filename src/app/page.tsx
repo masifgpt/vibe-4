@@ -51,7 +51,7 @@ const page = () => {
       {/* Automation Section (Image Left) */}
       <section className="grid md:grid-cols-2 gap-16 items-center px-12 py-24 bg-zinc-900">
         <img
-          src="/chatbot.jpg"
+          src="/aipic2.jpg"
           alt="AI Automation"
           className="rounded-2xl shadow-xl"
         />
